@@ -25,10 +25,10 @@
             android:hint="Cari nama mahasiswa"/>
 
         <Button
+            android:id="@+id/btnTambah"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Cari"
-            android:layout_marginTop="10dp"/>
+            android:text="Tambah Data"/>
 
         <TextView
             android:layout_width="wrap_content"
