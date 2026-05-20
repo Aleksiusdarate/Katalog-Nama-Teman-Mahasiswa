@@ -23,6 +23,7 @@
                 android:textStyle="bold"/>
 
             <EditText
+                android:id="@+id/etCari"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Cari nama mahasiswa"/>
@@ -37,22 +38,22 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Urutkan A-Z"
+                android:id="@+id/btnAZ"
                 android:layout_marginTop="10dp"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Urutkan Z-A"
+                android:id="@+id/btnZA"
                 android:layout_marginTop="10dp"/>
 
         </LinearLayout>
 
         <ListView
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:layout_marginStart="20dp"/>
+            android:id="@+id/listMahasiswa"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"/>
 
     </LinearLayout>
 
