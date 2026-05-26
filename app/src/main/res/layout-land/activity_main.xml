@@ -36,15 +36,17 @@
                 android:layout_marginTop="20dp"/>
 
             <Button
+                android:id="@+id/btnAZ"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/btnAZ"
+                android:text="Urutkan A-Z"
                 android:layout_marginTop="10dp"/>
 
             <Button
+                android:id="@+id/btnZA"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/btnZA"
+                android:text="Urutkan Z-A"
                 android:layout_marginTop="10dp"/>
 
         </LinearLayout>
