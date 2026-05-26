@@ -20,7 +20,7 @@ Aplikasi memiliki fitur:
 # Screenshot Aplikasi
 
 ## Tampilan Portrait
-![Portrait](images/portrait.png)
+![![Screenshot](Screenshot%20(93).png)](images/portrait.png)
 
 ## Tampilan Landscape
 ![Landscape](images/landscape.png)
