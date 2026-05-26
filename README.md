@@ -23,14 +23,14 @@ Aplikasi memiliki fitur:
 ![![Screenshot](Screenshot%20(93).png)](images/portrait.png)
 
 ## Tampilan Landscape
-![Landscape](images/landscape.png)
+![Landscape](images/landscape.p )
 
 ---
 
 # Screenshot Searching dan Sorting
 
 ## Hasil Searching
-![Searching](images/search.png)
+!Screenshot (94)](images/search.png)
 
 ## Hasil Sorting
 ![Sorting](images/sort.png)
